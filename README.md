@@ -1,4 +1,4 @@
-# dotNet5782_7227_3024
+# Drone-Delivery-Manager-dotnet
 
 This project is part of "mini project in windows systems". 
 In this project we develop delivery company by drones.
